@@ -8,4 +8,6 @@ Any password protected files should be opened with the password: **Jek47**
 2. [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods) the mod you want to play.
 3. Make sure that you are on the correct in-game menu, relevant to the mode that the mod has been made for.
 
-   Example: ![TEST](https://i.ibb.co/mhkjbD0/Zombies.png)
+   Example:
+
+   ![](https://i.ibb.co/mhkjbD0/Zombies.png)
