@@ -21,7 +21,7 @@ Any password protected files should be opened with the password: **Jek47**
 
 ![](https://i.ibb.co/47tBsf4/Injector.png)
 
-If you see this, your mod should load in when you start the match. 
+If you see this text, your mod should load in when you start the match. 
 
 If you want to remove the mod, simply close the game and restart it.
 
@@ -61,6 +61,6 @@ If you want to remove the mod, simply close the game and restart it.
 
 ![](https://i.ibb.co/3mq9hgW/PS4-Step-10.png)
 
-If you see this, your mod should load in when you start the match. 
+If you see this message, your mod should load in when you start the match. 
 
 If you want to remove the mod, simply close the game and restart it.
