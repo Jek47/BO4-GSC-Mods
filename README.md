@@ -10,7 +10,7 @@ Any password protected files should be opened with the password: **Jek47**
 
    Example; if you want to inject a zombies mod, make sure you're on the zombies menu:
    
-   ![](https://i.ibb.co/mhkjbD0/Zombies.png)
+![](https://i.ibb.co/mhkjbD0/Zombies.png)
 
 4. Open up `DebugCompiler.exe` and type the letter `I`.
 5. Drag and drop the GSC file on top of the black window, this should automatically paste the filepath for the GSC file into the window.
@@ -35,13 +35,13 @@ If you want to remove the mod, simply close the game and restart it.
 4. Make sure that Black Ops 4 **is not** running, then open up `PlayStation 4 Tool Box v2.exe` (running the game first will make the console crash).
 5. In the top-left corner of the toolbox, type the IP address of your PS4 and the port number: `9090`, then click the white envelope button (circled in red).
 
-   ![](https://i.ibb.co/Sfz2TBz/PS4-Step-5.png)
+![](https://i.ibb.co/Sfz2TBz/PS4-Step-5.png)
 
    Two things should happen at this point; you should get a notification on your PS4 saying: `Frame4 by DeathRGH & DizzRL Update 0.1.1`, also the status bar in the bottom-left of the toolbox should now say: `✅ Payload injected successfully!`
 
-   ![](https://i.ibb.co/BnF3spq/PS4-Step-5-pt2.jpg)
+![](https://i.ibb.co/BnF3spq/PS4-Step-5-pt2.jpg)
 
-   ![](https://i.ibb.co/LxBCxYz/PS4-Step-5-pt3.png)
+![](https://i.ibb.co/LxBCxYz/PS4-Step-5-pt3.png)
 
    If your console crashes at this point, just keep trying. Frame4 isn't very stable so it might take a few attempts.
 
@@ -49,11 +49,11 @@ If you want to remove the mod, simply close the game and restart it.
 
    Example; if you want to inject a zombies mod, make sure you're on the zombies menu:
    
-   ![](https://i.ibb.co/mhkjbD0/Zombies.png)
+![](https://i.ibb.co/mhkjbD0/Zombies.png)
 
 7. In the toolbox, go to: `Game Tools` > `Call of Duty` > `Black Ops 4` > `1.26` > `GSC Injector`
 
-   ![](https://i.ibb.co/6tpZfrG/PS4-Step-8.png)
+![](https://i.ibb.co/6tpZfrG/PS4-Step-8.png)
 
 8. From here, click the `Attach` button. You should get another notification on your PS4 to confirm this action.
 9. Now click the `Inject` button and browse to the GSC file you downloaded in step 3.
