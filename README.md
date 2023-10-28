@@ -7,7 +7,7 @@ Any password protected files in this repo should be opened with the password: **
 This mod allows to you to enter the "Super Easter Egg" rooms on all the zombies maps - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/Narrative%20Rooms)
 
 ### Box Patch
-This mod changes the logic of the mystery box to alyways give you the wonder weapon on your first hit - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/Box%20Patch)
+This mod changes the logic of the mystery box to always give you the wonder weapon on your first hit - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/Box%20Patch)
 
 ### T8 Survival Maps
 This is a port of the T8 Survival Maps mod created by GerardS0406 - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/T8%20Survival%20Maps%20by%20GerardS0406)
