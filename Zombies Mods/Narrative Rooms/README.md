@@ -19,7 +19,7 @@ All this mod does is opens the room on each map and renders it in.
 ![](https://i.ibb.co/vQtty3D/class.png)
 
 ### Ancient Evil
-![](https://i.ibb.co/kB365GF/ae1.png)
+![](https://i.ibb.co/YP5F0GS/ae1.png)
 
 ### Alpha Omega
 ![](https://i.ibb.co/sm0DZB4/ao.png)
