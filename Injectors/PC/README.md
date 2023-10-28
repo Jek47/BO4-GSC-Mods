@@ -1,5 +1,5 @@
 # How to inject GSC on PC
-1. Download the [PC GSC injector](https://github.com/Jek47/BO4-GSC-Mods/blob/main/Injectors/PC/BO4%20GSC%20Injector%20%5BPC%5D.zip).
+1. Download the [BO4 GSC Injector [PC].zip](https://github.com/Jek47/BO4-GSC-Mods/blob/main/Injectors/PC/BO4%20GSC%20Injector%20%5BPC%5D.zip).
 2. [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods) the GSC file for the mod you want to play.
 3. Make sure that you are on the correct in-game menu relevant to the mode that the mod has been made for (not actually in-game yet).
 
