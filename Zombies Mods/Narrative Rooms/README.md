@@ -22,4 +22,4 @@ All this mod does is opens the room on each map and renders it in.
 ![](https://i.ibb.co/tstvKrX/ae.png)
 
 ### Alpha Omega
-![](https://i.ibb.co/sm0DZB4/ao.png)
+![](https://i.ibb.co/Sfgb8FG/ao-min.png)
