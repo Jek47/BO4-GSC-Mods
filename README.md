@@ -1,5 +1,5 @@
 # BO4 GSC Mods
-A repository for pre-compiled BO4 GSC mods.
+A repository for pre-compiled BO4 GSC mods for both PC and PS4.
 
 Any password protected files in this repo should be opened with the password: **Jek47**
 
