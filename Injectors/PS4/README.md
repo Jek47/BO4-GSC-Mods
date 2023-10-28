@@ -1,5 +1,5 @@
 # How to use the PS4 GSC injector
-0. First of all, your PS4 needs to be jailbroken and running the latest version of GoldHEN to use these mods. Look up [ModdedWarfare](https://www.youtube.com/@MODDEDWARFARE) tutorials on YouTube if you need help jailbreaking the console.
+0. First of all, your PS4 needs to be jailbroken and running the latest version of GoldHEN to use these mods. Look up [ModdedWarfare](https://www.youtube.com/@MODDEDWARFARE) tutorials on YouTube if you need help jailbreaking the console.\
    Also, this has only been tested on FW 9.00, so if you're on a lower firmware this may or may not work for you.
 
 1. On your PS4, go to `Settings` > `GoldHEN` > `Servers Settings` > and make sure that `Enable BinLoader Server` is ticked.   
@@ -10,7 +10,8 @@
 
 ![](https://i.ibb.co/Sfz2TBz/PS4-Step-5.png)
 
-   Two things should happen at this point; you should get a notification on your PS4 saying: `Frame4 by DeathRGH & DizzRL Update 0.1.1`, also the status bar in the bottom-left of the toolbox should now say: `✅ Payload injected successfully!`
+   Two things should happen at this point; you should get a notification on your PS4 saying: `Frame4 by DeathRGH & DizzRL Update 0.1.1`\
+   also the status bar in the bottom-left of the toolbox should now say: `✅ Payload injected successfully!`
 
 ![](https://i.ibb.co/BnF3spq/PS4-Step-5-pt2.jpg)
 
@@ -32,6 +33,5 @@
 
 ![](https://i.ibb.co/3mq9hgW/PS4-Step-10.png)
 
-If you see this message, your mod should load in when you start the match. 
-
+If you see this message, your mod should load in when you start the match.\
 If you want to remove the mod, simply close the game and restart it.
