@@ -1,5 +1,5 @@
 # Box Patch
-Just a simple mod that changes the logic of the mystery box to force specific weapons.\
+A simple mod that changes the logic of the mystery box to force it to give you specific weapons.\
 i.e. Your first box spin will be the wonder weapon guaranteed. 
 
 Weapons will be pulled in the following order: 
