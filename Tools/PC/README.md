@@ -20,7 +20,7 @@ You just select the script you want to inject from the drop-down box, and click 
 If you have a GSC project folder (not compiled), you can compile it to a .gscc file using the `Compile Project` button. Once successfully compiled, it will automatically import it to the `Scripts` folder for you, with a filename of your choosing (just to keep your scripts sorted).
 
 ### How to use the app
-1. [Download](https://github.com/Jek47/BO4-GSC-Mods/blob/main/Injectors/PC/T8%20Compiler%20GUI.zip) and extract `T8 Compiler GUI.zip` (password is: **Jek47**).
+1. [Download](https://github.com/Jek47/BO4-GSC-Mods/blob/main/Tools/PC/T8%20Compiler%20GUI.zip) and extract `T8 Compiler GUI.zip` (password is: **Jek47**).
 
 2. [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods) the GSC file for the mod you want to play.
 
