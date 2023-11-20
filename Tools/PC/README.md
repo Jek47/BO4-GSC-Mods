@@ -39,11 +39,15 @@ If you have a GSC project folder (not compiled), you can compile it to a .gscc f
 
 ![](https://i.ibb.co/hWbRbjv/Step5.png)
    
-6. Once you've imported your script, select it from the drop down box on the right-hand side, select your injection point, and click `Inject GSC`
+6. Once you've imported your script, select it from the drop down box on the right-hand side.\
+   Select your injection point, and click `Inject GSC`
+
+   You should get a message telling you that your script was injected successfully.
 
 ![](https://i.ibb.co/LQprrzk/Step-6.png)
 
-Select your injection point based on the game mode your mod was made for, as per below:\
+**Note**: If you're not sure what injection point to select, choose it based game mode your mod was made for, as per below:\
+\
 **Zombies**: *scripts\zm_common\load.gsc*\
 **Multiplayer**: *scripts\mp_common\bb.gsc*\
 **Blackout / common**: *scripts\core_common\load_shared.gsc*
