@@ -6,8 +6,8 @@ This app is a very basic front-end for [t7-compiler](https://github.com/shiverso
 It allows users to compile and inject GSC projects for Black Ops 4 without needing to install Visual Studio Code, in a simple GUI format.
 
 ### Features
-• Compile GSC project folders to "pre-compiled" .gscc scripts\
 • Inject pre-compiled scripts with one-click\
+• Compile GSC project folders to "pre-compiled" .gscc scripts\
 • LazyLink & Detours support\
 • Portable app, you just need the .exe file to run it\
 • User-selectable themes
