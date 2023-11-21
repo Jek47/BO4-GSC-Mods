@@ -13,7 +13,7 @@ It allows users to compile and inject GSC projects for Black Ops 4 without needi
 • User-selectable themes
 
 ### Credits
-• [Serious](https://github.com/shiversoftdev): for the t7-compiler app itself, without which BO4 modding wouldn't even be possible\
+• [Serious](https://github.com/shiversoftdev): for the t7-compiler program itself, without which BO4 modding wouldn't even be possible\
 • [ATE47](https://github.com/ate47): for adding LazyLink and Detours support to the compiler, and for help troubleshooting and other queries\
 • Pea: for help with various aspects of the creation of this app and help troubleshooting\
 • BodNJenie: for help with testing the app on the [Project-BO4 client](https://github.com/project-bo4/shield-development)
