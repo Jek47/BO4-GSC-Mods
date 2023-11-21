@@ -1,5 +1,7 @@
 # BO4 GSC Mods
-A repository for pre-compiled BO4 GSC mods for both PC and PS4.
+A repository for pre-compiled BO4 GSC mods for both PC and PS4. 
+
+My T8 Compiler GUI app is also available [here](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC).
 
 Any password protected files in this repo should be opened with the password: **Jek47**
 
