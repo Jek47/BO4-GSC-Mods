@@ -59,7 +59,7 @@ If you have a GSC project folder (not compiled), you can compile it to a .gscc f
 
 • Ticking the `Detours` box will enable advanced features within the compiler, but they rely on you running the Project-BO4 client. If you're not running Project-BO4, enabling detours will crash your game. If your GSC script does not use detours, then just leave the box unticked. If your script does use detours, you'll need to tick the box and make sure you're running the client. 
 
-• Windows Defender and/or other anti-virus programs might flag the app as a Trojan or some other threat, this is a false positive.\
+• Windows Defender and/or other anti-virus programs might flag the app as a Trojan, this is a false positive.\
 The app is a front-end for the t7-compiler program, created by Serious, a trusted scene developer.\
 
 Since the compiler is modifying the memory of the game while it's running, it will trigger some anti-virus programs.\
