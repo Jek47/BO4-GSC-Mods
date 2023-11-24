@@ -57,10 +57,10 @@ If you have a GSC project folder (not compiled), you can compile it to a .gscc f
 **Multiplayer**: *scripts\mp_common\bb.gsc*\
 **Blackout / common**: *scripts\core_common\load_shared.gsc*
 
-• Ticking the `Detours` box will enable advanced features within the compiler, but they rely on you running the Project-BO4 client. If you're not running Project-BO4, enabling detours will crash your game. If your GSC script does not use detours, then just leave the box unticked. If your script does use detours, you'll need to tick the box and make sure you're running the client. Scripts that require detours typically have the .gsic file extension. 
+• Ticking the `Detours` box will enable advanced features within the compiler, but they rely on you running the Project-BO4 client to work. If you're not running Project-BO4, enabling detours will crash your game. If your GSC script does not use detours, then just leave the box unticked. If your script does use detours, you'll need to tick the box and make sure you're running the client. Scripts that require detours typically have the .gsic file extension. 
 
 • Windows Defender and/or other anti-virus programs might flag the app as a Trojan, this is a false positive.\
-The app is a front-end for the t7-compiler program, created by Serious, a trusted scene developer.\
+The app is a front-end for the t7-compiler program, created by Serious, a trusted scene developer.
 
 Since the compiler is modifying the memory of the game while it's running, it will trigger some anti-virus programs.\
 You may need to make an exception for the app in your anti-virus settings.
