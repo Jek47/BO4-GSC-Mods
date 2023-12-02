@@ -6,7 +6,8 @@ My T8 Compiler GUI app is also available [here](https://github.com/Jek47/BO4-GSC
 Any password protected files in this repo should be opened with the password: **Jek47**
 
 ### Narrative Rooms
-This mod allows to you to enter the "Super Easter Egg" rooms on all the zombies maps - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/Narrative%20Rooms)
+This mod allows to you to enter the "Super Easter Egg" rooms on all the zombies maps - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/Narrative%20Rooms)\
+As seen on [my YouTube channel](https://www.youtube.com/watch?v=81FOtzzDNjk).
 
 ### Box Patch
 This mod changes the logic of the mystery box to always give you the wonder weapon on your first hit - [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods/Box%20Patch)
