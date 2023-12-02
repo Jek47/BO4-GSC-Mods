@@ -1,4 +1,4 @@
-![](https://i.ibb.co/VYJSgGk/TITLE.png)
+![](https://i.ibb.co/X3yN90q/TITLE.png)
 
 # T8 Compiler GUI (v1.2)
 This app is a very basic front-end for [t7-compiler](https://github.com/shiversoftdev/t7-compiler), by Serious.
@@ -45,12 +45,12 @@ If you have a GSC project folder (not compiled), you can compile it to a GSC fil
    
    Once compiled it will ask you to give it a name, and then automatically import the compiled script for you.
    
-7. Once you've imported your script, just select it from the drop down box on the right-hand side.\
+6. Once you've imported your script, just select it from the drop down box on the right-hand side.\
    Select your game mode, and click `Inject GSC`
 
    You should get a message telling you that your script was injected successfully.
 
-![](https://i.ibb.co/rvPQH8K/STEP6.png)
+![](https://i.ibb.co/C517NwZ/STEP6.png)
 
 ### Notes:
 • If the mod you're using has both a **.gscc** and a **.cscc** file, make sure you choose the **.cscc** script from the drop-down box when you inject.
