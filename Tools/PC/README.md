@@ -1,4 +1,4 @@
-![](https://i.ibb.co/D7FRQDp/TITLE.png)
+![](https://i.ibb.co/VYJSgGk/TITLE.png)
 
 # T8 Compiler GUI (v1.2)
 This app is a very basic front-end for [t7-compiler](https://github.com/shiversoftdev/t7-compiler), by Serious.
@@ -50,9 +50,13 @@ If you have a GSC project folder (not compiled), you can compile it to a GSC fil
 
    You should get a message telling you that your script was injected successfully.
 
-![](https://i.ibb.co/LQprrzk/Step-6.png)
+![](https://i.ibb.co/rvPQH8K/STEP6.png)
 
 ### Notes:
+• If the mod you're using has both a **.gscc** and a **.cscc** file, make sure you choose the **.cscc** script from the drop-down box when you inject.
+
+Otherwise if you select the **.gscc** script, it will only inject that part, and not the .cscc part as well. 
+
 • The game mode you select controls which script gets hooked during injection:\
 **Zombies**: *scripts\zm_common\load.gsc*\
 **Multiplayer**: *scripts\mp_common\load.gsc*\
