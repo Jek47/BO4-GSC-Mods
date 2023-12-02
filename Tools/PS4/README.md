@@ -1,5 +1,5 @@
 # How to use the PS4 GSC injector
-###### All credit for the PS4 injector go to DeathRGH. 
+###### All credits for the PS4 injector go to DeathRGH. 
 0. First of all, your PS4 needs to be jailbroken and running the latest version of GoldHEN to use these mods. Look up [ModdedWarfare](https://www.youtube.com/@MODDEDWARFARE) tutorials on YouTube if you need help jailbreaking the console.\
    Also, this has only been tested on FW 9.00, so if you're on a lower firmware this may or may not work for you.
 
