@@ -53,7 +53,7 @@ If you have a GSC project folder (not compiled), you can compile it to a GSC fil
 ![](https://i.ibb.co/C517NwZ/STEP6.png)
 
 ### Notes:
-• If the mod you're using has both a **.gscc** and a **.cscc** file, make sure you choose the **.cscc** script from the drop-down box when you inject.
+• If the mod you're using has both a **.gscc** and a **.cscc** file, make sure they both have the same filename, and choose the **.cscc** script from the drop-down box when you inject.
 
 Otherwise if you select the **.gscc** script, it will only inject that part, and not the .cscc part as well. 
 
