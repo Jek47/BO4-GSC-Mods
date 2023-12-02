@@ -96,6 +96,9 @@ The source code of the compiler that this app uses is [here](https://github.com/
 #### Version 0.1
 • Initial "beta" release, sent out to a few community members for feedback
 
+### To do
+- [ ] Add the ability for users to drag and drop files and folders onto the app when importing or compiling, instead of having to user the file browser.
+
 ### //
 
 If you've read this far, there's a hidden settings panel on the `About` page, maximize the page to see it.\
