@@ -67,6 +67,8 @@ Otherwise if you select the **.gscc** script, it will only inject that part, and
 If your GSC script does not use detours, then just leave the box unticked.\
 If your script does use detours, you'll need to tick the box and make sure you're running the client.
 
+Reliance on Project-BO4 to use detours may change in the future, depending if Serious updates the compiler to support it. 
+
 • Windows Defender and/or other anti-virus programs might flag the app as a Trojan, this is a false positive.\
 The app is a front-end for the t7-compiler program, created by Serious, a trusted scene developer.
 
