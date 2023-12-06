@@ -5,8 +5,6 @@ This app is a very basic front-end for [t7-compiler](https://github.com/shiverso
 
 It allows users to compile and inject GSC projects for Black Ops 4 without needing to install Visual Studio Code, in a simple GUI format.
 
-[![You can watch my video tutorial here instead](https://img.youtube.com/vi/gOs00GAwoH4/0.jpg)](https://www.youtube.com/watch?v=gOs00GAwoH4)
-
 ### Features
 • Inject pre-compiled scripts with one-click\
 • Compile GSC project folders to "pre-compiled" GSC scripts\
@@ -19,6 +17,9 @@ It allows users to compile and inject GSC projects for Black Ops 4 without needi
 • [ATE47](https://github.com/ate47): for adding CSC, LazyLink and Detours support to the compiler, and for help troubleshooting and other queries\
 • [Pea](https://github.com/NotNierPea): for help with various aspects of the creation of this app and help troubleshooting\
 • [BodNJenie](https://github.com/bodnjenie14): for help with testing the app on the [Project-BO4 client](https://github.com/project-bo4/shield-development)
+
+#### Video Tutorial
+[![Alt text for your video](https://img.youtube.com/vi/gOs00GAwoH4/0.jpg)](https://www.youtube.com/watch?v=gOs00GAwoH4)
 
 ### How it works
 The app reads GSC scripts from the `Scripts` folder, which is in the same directory as the .exe itself, and displays them in the drop-down box. If there is no `Scripts` folder, the app will make one automatically.
