@@ -4,7 +4,7 @@
    Also, this has only been tested on FW 9.00, so if you're on a lower firmware this may or may not work for you.
 
 1. On your PS4, go to `Settings` > `GoldHEN` > `Servers Settings` > and make sure that `Enable BinLoader Server` is ticked.   
-2. [Download](https://github.com/Jek47/BO4-GSC-Mods/blob/main/Injectors/PS4/BO4%20GSC%20Injector%20%5BPS4%5D.zip) the BO4 GSC Injector [PS4].zip.
+2. [Download](https://raw.githubusercontent.com/Jek47/BO4-GSC-Mods/89673f065cc8d3ab3350e5bb32e8f9501aa30f2e/Tools/PS4/BO4%20GSC%20Injector%20%5BPS4%5D.zip) the BO4 GSC Injector [PS4].zip.
 3. [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods) the GSC file for the mod you want to play.
 4. Make sure that Black Ops 4 **is not** running, then open up `PlayStation 4 Tool Box v2.exe` (running the game first will make the console crash).
 5. In the top-left corner of the toolbox, type the IP address of your PS4 and the port number: `9090`, then click the white envelope button (circled in red).
