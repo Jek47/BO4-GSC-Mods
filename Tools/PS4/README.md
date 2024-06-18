@@ -2,7 +2,7 @@
 ###### All credits for the PS4 injector go to DeathRGH. 
 A few points before we begin:
 - Your PS4 needs to be jailbroken and running the latest version of GoldHEN to use these mods. Look up [ModdedWarfare](https://www.youtube.com/@MODDEDWARFARE) tutorials on YouTube if you need help jailbreaking the console.
-- This has only been tested on FW 9.00. If *Frame4 0.1.1* doesn't work on your firmware, you may need to download a newer version of [DeathRGH's GitHub](https://github.com/DeathRGH/frame4/releases) and replace the payload in the injector app files: Toolbox folder **>** Payloads **>** Multi **>** Delete the *Frame4.bin* file here and replace it with the new version.
+- This has only been tested on FW 9.00. If *Frame4 0.1.1* doesn't work on your firmware, you may need to download a newer version from [DeathRGH's GitHub](https://github.com/DeathRGH/frame4/releases) and replace the payload in the injector app files: Toolbox folder **>** Payloads **>** Multi **>** Delete the *Frame4.bin* file here and replace it with the new version.
 - This will only work on the latest version of Black Ops 4 (1.26) but any CUSA region code should be fine.
 
 1. On your PS4, go to `Settings` > `GoldHEN` > `Servers Settings` > and make sure that `Enable BinLoader Server` is ticked.   
