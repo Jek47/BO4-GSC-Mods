@@ -1,13 +1,14 @@
 # How to use the PS4 GSC injector
 ###### All credits for the PS4 injector go to DeathRGH. 
 0. First of all, your PS4 needs to be jailbroken and running the latest version of GoldHEN to use these mods. Look up [ModdedWarfare](https://www.youtube.com/@MODDEDWARFARE) tutorials on YouTube if you need help jailbreaking the console.\
-   Also, this has only been tested on FW 9.00, so if you're on a lower firmware this may or may not work for you.
+\
+Also, this has only been tested on FW 9.00. If *Frame4 0.1.1* doesn't work on your firmware, you may need to download a newer version of [DeathRGH's GitHub](https://github.com/DeathRGH/frame4/releases) and replace the payload in the injector app files: Toolbox folder **>** Payloads **>** Multi **>** Delete the *Frame4.bin* file here and replace it with the new version.
 
-1. On your PS4, go to `Settings` > `GoldHEN` > `Servers Settings` > and make sure that `Enable BinLoader Server` is ticked.   
-2. [Download](https://raw.githubusercontent.com/Jek47/BO4-GSC-Mods/89673f065cc8d3ab3350e5bb32e8f9501aa30f2e/Tools/PS4/BO4%20GSC%20Injector%20%5BPS4%5D.zip) the BO4 GSC Injector [PS4].zip.
-3. [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods) the GSC file for the mod you want to play.
-4. Make sure that Black Ops 4 **is not** running, then open up `PlayStation 4 Tool Box v2.exe` (running the game first will make the console crash).
-5. In the top-left corner of the toolbox, type the IP address of your PS4 and the port number: `9090`, then click the white envelope button (circled in red).
+2. On your PS4, go to `Settings` > `GoldHEN` > `Servers Settings` > and make sure that `Enable BinLoader Server` is ticked.   
+3. [Download](https://raw.githubusercontent.com/Jek47/BO4-GSC-Mods/89673f065cc8d3ab3350e5bb32e8f9501aa30f2e/Tools/PS4/BO4%20GSC%20Injector%20%5BPS4%5D.zip) the BO4 GSC Injector [PS4].zip.
+4. [Download](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Zombies%20Mods) the GSC file for the mod you want to play.
+5. Make sure that Black Ops 4 **is not** running, then open up `PlayStation 4 Tool Box v2.exe` (running the game first will make the console crash).
+6. In the top-left corner of the toolbox, type the IP address of your PS4 and the port number: `9090`, then click the white envelope button (circled in red).
 
 ![](https://i.ibb.co/Sfz2TBz/PS4-Step-5.png)
 
