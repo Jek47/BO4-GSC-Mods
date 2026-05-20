@@ -15,7 +15,6 @@ Credit: [Korz22](https://youtube.com/@Korz22) (for Dead of The Night's narrative
 ![](https://i.ibb.co/Qmsng2f/ix.png)
 
 ### Blood of The Dead
-![](https://i.ibb.co/fFfWDsJ/botd.png)
 
 ### Classified 
 ![](https://i.ibb.co/vQtty3D/class.png)
