@@ -15,12 +15,13 @@ Credit: [Korz22](https://youtube.com/@Korz22) (for Dead of The Night's narrative
 ![](https://i.ibb.co/Qmsng2f/ix.png)
 
 ### Blood of The Dead
+![](https://i.ibb.co/fFfWDsJ/botd.png)
 
 ### Classified 
 ![](https://i.ibb.co/vQtty3D/class.png)
 
-### Dead of The Night
-![](https://i.ibb.co/dwBhxRgH/DOTN.png)
+### Dead of The Night 
+![](https://i.ibb.co/Q3Rdy6FL/DOTN1.png)
 
 ### Ancient Evil
 ![](https://i.ibb.co/tstvKrX/ae.png)
