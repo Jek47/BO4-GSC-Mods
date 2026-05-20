@@ -6,9 +6,10 @@ The rooms are referred to as either `narrative_room` or `lore_room` in the game'
 
 All this mod does is opens the room on each map and renders it in. 
 
-Credit:  
-• [Korz22](https://youtube.com/@Korz22)  
-*(for telling me about Dead of The Night's narrative room)*
+**Note**: there are no known secret rooms on Tag der Toten. 
+
+**Credit**:  
+• [Korz22](https://youtube.com/@Korz22)  - *(for telling me about Dead of The Night's narrative room)*
 
 ### Voyage of Despair
 ![](https://i.ibb.co/sKsKtsz/voyage1.png)
